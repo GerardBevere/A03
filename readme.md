@@ -10,6 +10,13 @@ Step 3: Name your repository and scroll down to create it.
 Step 4: In the quick setup, click "creating a new file" and name your file or import external files to start coding!
 
 
+How to use Visual studio code:
+
+
+1. Download visual studio code https://code.visualstudio.com/download
+2. Open it and complete the setup wizard with your preferences.
+3. 
+
 Part 2:
 
 
