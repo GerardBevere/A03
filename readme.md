@@ -15,7 +15,11 @@ How to use Visual studio code:
 
 1. Download visual studio code https://code.visualstudio.com/download
 2. Open it and complete the setup wizard with your preferences.
-3. 
+3. Open viual studio code.
+4. In the top left corner, click "file" and then "open folder".
+5. Select a folder of your choice where your files will be placed for editing
+6. Right click on the folder name in visual studio code to create a new file and name the file. 
+7. End the file name in . and then whatever doctype you want(.html, .css, .php, .js)
 
 Part 2:
 
