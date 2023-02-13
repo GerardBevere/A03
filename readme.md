@@ -11,9 +11,9 @@ Fetch: Adds a change from a different repository to your local branch without ha
 GIT: the open source version control system to keep a log of changes made to files.
 Github: version control platoform using git to host and share projects
 Merge: combines two branches
-Merge Conflict: 
-Push
-Pull
-Remote
-Repository
+Merge Conflict: when a branch merge fails
+Push: updates commited changes from local repository with a remote repository
+Pull: updates your committed changes from a remote repository with a local repository
+Remote: a repository that is hosted on the internet
+Repository: a workspace that holds project files and their version history.
 
