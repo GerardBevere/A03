@@ -21,6 +21,7 @@ Clone: copy of a repository that can be stored locally and synced to github
 
 Commit: A change made to a file that can be refered by a unique identifier. 
 
+
 Fetch: Adds a change from a different repository to your local branch without having to use a commit
 
 
