@@ -5,13 +5,13 @@ Step 4: In the quick setup, click "creating a new file" and name your file or im
 
 
 Branch: isolates edits without effecting original repository
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
+Clone: copy of a repository that can be stored locally and synced to github
+Commit: A change made to a file that can be refered by a unique identifier. 
+Fetch: Adds a change from a different repository to your local branch without having to use a commit
+GIT: the open source version control system to keep a log of changes made to files.
+Github: version control platoform using git to host and share projects
+Merge: combines two branches
+Merge Conflict: 
 Push
 Pull
 Remote
