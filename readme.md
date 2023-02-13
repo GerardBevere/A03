@@ -4,4 +4,16 @@ Step 3: Name your repository and scroll down to create it.
 Step 4: In the quick setup, click "creating a new file" and name your file or import external files to start coding!
 
 
+Branch: isolates edits without effecting original repository
+Clone
+Commit
+Fetch
+GIT
+Github
+Merge
+Merge Conflict
+Push
+Pull
+Remote
+Repository
 
